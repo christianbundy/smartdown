@@ -1,6 +1,6 @@
-# Smartdown
+# {{projectName}}
 
-Markdown and Handlebars get married.
+{{description}}
 
 ## Installation
 
@@ -22,9 +22,8 @@ To save it as `README.md`, pipe it!
 
 ## Support
 
-Please [open an issue](https://github.com/christianbundy/smartdown/issues/new) for questions and concerns.
+Please [open an issue](https://github.com/{{repo}}/issues/new) for questions and concerns.
 
 ## Contributing
 
-Fork the project, commit your changes, and [open a pull request](https://github.com/christianbundy/smartdown/compare/).
-
+Fork the project, commit your changes, and [open a pull request](https://github.com/{{repo}}/compare/).

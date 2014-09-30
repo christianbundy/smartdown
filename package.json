@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/christianbundy/smartdown/issues"
   },
-  "homepage": "https://github.com/christianbundy/smartdown"
+  "homepage": "https://github.com/christianbundy/smartdown",
+  "dependencies": {
+    "handlebars": "^2.0.0"
+  }
 }
