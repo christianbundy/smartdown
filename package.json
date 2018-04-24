@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/christianbundy/smartdown",
   "dependencies": {
-    "handlebars": "^2.0.0"
+    "handlebars": "^4.0.0"
   }
 }
